@@ -10,3 +10,5 @@ Github page [here](https://2000gao.github.io/CS_4395_Portfolio/)
 [Assignment 2](https://github.com/2000gao/CS_4395_Portfolio/tree/main/assignments/Assignment_2) - Word guessing game
 
 [Assignment 3](https://github.com/2000gao/CS_4395_Portfolio/tree/main/assignments/Assignment_3) - WordNet
+
+[Assignment 4](https://github.com/2000gao/CS_4395_Portfolio/tree/main/assignments/Assignment_4) - Ngram language model
