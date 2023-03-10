@@ -14,3 +14,5 @@ Github page [here](https://2000gao.github.io/CS_4395_Portfolio/)
 [Assignment 4](https://github.com/2000gao/CS_4395_Portfolio/tree/main/assignments/Assignment_4) - Ngram language model
 
 [Assignment 5](https://github.com/2000gao/CS_4395_Portfolio/tree/main/assignments/Assignment_5) - Sentence parsing
+
+[Assignment 6](https://github.com/2000gao/CS_4395_Portfolio/tree/main/assignments/Assignment_6) - Web crawling
